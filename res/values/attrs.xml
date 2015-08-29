@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 声明引用空间 -->
+    <declare-styleable name="LogicView">
+        <attr name="contentStr" format="string" />
+        <attr name="sleepTime" format="integer" />
+    </declare-styleable>
+
+</resources>
